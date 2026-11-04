@@ -23,7 +23,7 @@ The Data Assessment Agent evaluates the readiness of candidate data sources so t
 
 Start with `data-assessment-agent.md`, then use the sibling skill for the task at hand.
 
-## Repository Structure
+## Folder Structure
 
     data-assessment-agent/
     ├── README.md

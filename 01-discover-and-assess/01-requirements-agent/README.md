@@ -22,7 +22,7 @@ The Requirements Agent turns scattered business inputs into a structured, priori
 | `requirements-validation-handoff` | Lead Validator review, decision logging, baseline versioning, and downstream release. |
 | `requirements-governance-lineage` | Access control, sensitive data protection, traceability, and audit evidence. |
 
-## Repository Structure
+## Folder Structure
 
     requirements-agent/
     ├── README.md

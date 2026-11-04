@@ -24,7 +24,7 @@ The Discovery Agent continuously maps the legacy systems, sources, and dependenc
 
 Start with `SKILL.md`, which references the other skills.
 
-## Repository Structure
+## Folder Structure
 
     discovery-agent/
     ├── README.md
