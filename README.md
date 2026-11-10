@@ -15,32 +15,32 @@ A collection of agent skills covering the full data project lifecycle, from disc
 
 ## Repository Structure
 
-Agentic-Development-Frameworks/
-├── 01-discover-and-assess/
-│ ├── 01-requirements-agent/
-│ ├── 02-discovery-agent/
-│ └── 03-data-assessment-agent/
-├── 02-architect-and-design/
-│ ├── 01-data-modelling-agent/
-│ ├── 02-architecture-agent/
-│ └── 03-governance-agent/
-├── 03-develop-and-integrate/
-│ ├── 01-pipeline-agent/
-│ ├── 02-code-generation-agent/
-│ └── 03-documentation-agent/
-├── 04-test-and-validate/
-│ ├── 01-data-quality-agent/
-│ ├── 02-testing-agent/
-│ └── 03-reconciliation-agent/
-├── 05-deploy-and-release/
-│ ├── 01-ci-cd-agent/
-│ ├── 02-release-agent/
-│ └── 03-deployment-validation-agent/
-├── 06-operate-and-optimize/
-│ ├── 01-cost-optimization-agent/
-│ ├── 02-observability-agent/
-│ └── 03-remediation-agent/
-└── README.md
+    Agentic-Development-Frameworks/
+    ├── 01-discover-and-assess/
+    │ ├── 01-requirements-agent/
+    │ ├── 02-discovery-agent/
+    │ └── 03-data-assessment-agent/
+    ├── 02-architect-and-design/
+    │ ├── 01-data-modelling-agent/
+    │ ├── 02-architecture-agent/
+    │ └── 03-governance-agent/
+    ├── 03-develop-and-integrate/
+    │ ├── 01-pipeline-agent/
+    │ ├── 02-code-generation-agent/
+    │ └── 03-documentation-agent/
+    ├── 04-test-and-validate/
+    │ ├── 01-data-quality-agent/
+    │ ├── 02-testing-agent/
+    │ └── 03-reconciliation-agent/
+    ├── 05-deploy-and-release/
+    │ ├── 01-ci-cd-agent/
+    │ ├── 02-release-agent/
+    │ └── 03-deployment-validation-agent/
+    ├── 06-operate-and-optimize/
+    │ ├── 01-cost-optimization-agent/
+    │ ├── 02-observability-agent/
+    │ └── 03-remediation-agent/
+    └── README.md
 
 
 ### Agent Folder Layout
