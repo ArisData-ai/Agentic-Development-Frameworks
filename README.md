@@ -46,13 +46,13 @@ A collection of agent skills covering the full data project lifecycle, from disc
 ### Agent Folder Layout
 
 Every agent folder follows the same layout:
-NN-<agent-name>/
-├── SKILL.md # Entry point: the agent’s role, workflow, and when to load each reference
-├── README.md # Human-readable overview of the agent
-└── references/ # Task-specific instructions, loaded by SKILL.md only when needed
-├── <agent>-<task-1>.md
-├── <agent>-<task-2>.md
-└── ...
+    NN-<agent-name>/
+    ├── SKILL.md # Entry point: the agent’s role, workflow, and when to load each reference
+    ├── README.md # Human-readable overview of the agent
+    └── references/ # Task-specific instructions, loaded by SKILL.md only when needed
+    ├── <agent>-<task-1>.md
+    ├── <agent>-<task-2>.md
+    └── ...
 
 
 - **`SKILL.md`** is the single entry point. The agent always starts here.
@@ -61,14 +61,14 @@ NN-<agent-name>/
 
 **Example (Requirements Agent):**
 
-01-requirements-agent/
-├── SKILL.md
-├── README.md
-└── references/
-├── requirements-extraction-...md
-├── requirements-governance-...md
-├── requirements-intake-...md
-└── requirements-validation-...md
+    01-requirements-agent/
+    ├── SKILL.md
+    ├── README.md
+    └── references/
+    ├── requirements-extraction-...md
+    ├── requirements-governance-...md
+    ├── requirements-intake-...md
+    └── requirements-validation-...md
 
 
 ## Segments
