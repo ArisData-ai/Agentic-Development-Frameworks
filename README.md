@@ -45,7 +45,6 @@ A collection of agent skills covering the full data project lifecycle, from disc
 
 ### Agent Folder Layout
 
-Every agent folder follows the same layout:
     NN-<agent-name>/
     ├── SKILL.md # Entry point: the agent’s role, workflow, and when to load each reference
     ├── README.md # Human-readable overview of the agent
@@ -54,6 +53,7 @@ Every agent folder follows the same layout:
     ├── <agent>-<task-2>.md
     └── ...
 
+Every agent folder follows the same layout:
 
 - **`SKILL.md`** is the single entry point. The agent always starts here.
 - **`references/`** holds detailed, task-specific files. `SKILL.md` points to them, and they are loaded only when that task comes up, which keeps the agent's context small.
